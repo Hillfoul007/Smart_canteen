@@ -1,5 +1,5 @@
  # Smart Canteen Management System
-📜 Project Description
+📜 #  Project Description
 The Smart Canteen Management System is an efficient solution to modernize and automate the canteen management process. It offers a seamless experience for customers and administrators by integrating ordering, billing, and inventory management into a single platform. The system aims to minimize human errors, reduce waiting times, and improve overall customer satisfaction.
 
 🚀 Features
@@ -24,7 +24,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/username/smart-canteen-management.git
+git clone https://github.com/Hillfoul007/smart_canteen.git
 Navigate to the project directory:
 
 bash
@@ -74,9 +74,4 @@ Create a pull request.
 🛡️ License
 This project is licensed under the MIT License.
 
-📞 Contact
-For any inquiries or feedback, please reach out:
 
-Name: Chaman
-Email: your-email@example.com
-LinkedIn: Your LinkedIn Profile
