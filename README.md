@@ -1,1 +1,1 @@
-# Smart_canteen
+# Smart Canteen App
